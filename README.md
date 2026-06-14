@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi, I'm Atharva 👋
 
-<!--
-**atharvamane8811/atharvamane8811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Data Science Student  
+💻 Interested in Data Science, AI/ML, and Analytics  
+🐍 Learning Python, SQL, and Machine Learning  
+🎮 Working on Esports Analytics Projects  
+🚀 Open to Internship Opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Python
+- SQL
+- Data Analysis
+- Microsoft Excel
+- Computer Networks
+- Java
+- OOP Concepts
+- Machine Learning Basics
+
+---
+
+## 📚 Currently Learning
+- Machine Learning
+- Core Java
+- Data Analytics
+- AI Tools & Productivity
+
+---
+
+## 🚀 Projects
+- Esports Match Analytics & Win Prediction System
+- SQL Learning Practice
+- Python Mini Projects
+
+---
+
+## 🌐 Connect With Me
+LinkedIn:
+https://www.linkedin.com/in/atharva-mane-38580a314/
