@@ -3,7 +3,7 @@
 🎓 B.Tech Data Science Student  
 💻 Interested in Data Science, AI/ML, and Analytics  
 🐍 Learning Python, SQL, and Machine Learning  
-🎮 Working on Esports Analytics Projects  
+🎮 Working on Data Analytics Projects  
 🚀 Open to Internship Opportunities  
 
 ---
@@ -29,7 +29,7 @@
 ---
 
 ## 🚀 Projects
-- Esports Match Analytics & Win Prediction System
+- Analytics & Win Prediction System
 - SQL Learning Practice
 - Python Mini Projects
 
