@@ -14,7 +14,6 @@
 - Data Analysis
 - Microsoft Excel
 - Computer Networks
-- Java
 - OOP Concepts
 - Machine Learning Basics
 
@@ -38,3 +37,7 @@
 ## 🌐 Connect With Me
 LinkedIn:
 https://www.linkedin.com/in/atharva-mane-38580a314/
+E-mail:
+atharvamane8811@gmail.com
+IG:
+atharvamane_92
