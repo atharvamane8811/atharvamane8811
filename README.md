@@ -1,4 +1,4 @@
-## Hi, I'm Atharva 👋
+## Hi, I'm Atharva Mane 👋
 
 🎓 B.Tech Data Science Student  
 💻 Interested in Data Science, AI/ML, and Analytics  
@@ -16,6 +16,7 @@
 - Computer Networks
 - OOP Concepts
 - Machine Learning Basics
+- Web Scraping 
 
 ---
 
@@ -24,6 +25,8 @@
 - Core Java
 - Data Analytics
 - AI Tools & Productivity
+- Web Scraping 
+
 
 ---
 
