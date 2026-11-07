@@ -112,9 +112,9 @@ I'm a B.Tech Computer Science and Data Science student passionate about technolo
 ---
 
 <p align="center">
-  <i>"The best way to predict the future is to create it."</i>
+  Thanks for visiting my profile and have a Great Day!
 </p>
 
-<p align="center">
-  Thanks for visiting my profile!
+<p align="right">
+  -Atharva Mane
 </p>
