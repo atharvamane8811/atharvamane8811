@@ -92,19 +92,19 @@ I'm a B.Tech Computer Science and Data Science student passionate about technolo
 - **B2B Company Analysis** – Web scraping, data collection, cleaning, preprocessing, and visualization of company information.
 - **Smart Parking Management System** – A parking management solution with backend development, database integration, and parking history management.
 
-## Connect With Me
+## Connect Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/atharva-mane-38580a314/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:atharvamane8811@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="YOUR_INSTAGRAM_URL">
+  <a href="https://www.instagram.com/atharvamane_92/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="YOUR_DISCORD_URL">
+  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
