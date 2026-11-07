@@ -92,20 +92,6 @@ I'm a B.Tech Computer Science and Data Science student passionate about technolo
 - **B2B Company Analysis** – Web scraping, data collection, cleaning, preprocessing, and visualization of company information.
 - **Smart Parking Management System** – A parking management solution with backend development, database integration, and parking history management.
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=atharvamane8811&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-ashy.vercel.app/?user=atharvamane8811&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=atharvamane8811&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 ## Connect With Me
 
 <p align="left">
